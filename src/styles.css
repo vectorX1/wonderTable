@@ -1,0 +1,7 @@
+ .my-pagination .ng2-pagination .current {
+    background: #236167;
+  }
+  .my-pagination .ng2-pagination{
+      cursor: pointer;
+  }
+
